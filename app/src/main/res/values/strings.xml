@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MetricConverter</string>
+    <string name="conversion_result">%s %s</string>
+    <string name="pilih_satuan">Pilih Satuan</string>
+</resources>
